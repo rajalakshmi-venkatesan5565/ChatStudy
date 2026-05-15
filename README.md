@@ -128,7 +128,7 @@ server.close()
 
 ## Result:
 
-<img width="1471" height="396" alt="WhatsApp Image 2026-05-15 at 9 18 24 AM" src="https://github.com/user-attachments/assets/729e5025-61c0-43e0-b928-198f0d2826fc" />
+<img width="1913" height="1199" alt="Screenshot 2026-05-15 093108" src="https://github.com/user-attachments/assets/34d63548-8096-4291-9d5f-b946bdffe1ad" />
 
 
 Thus the study on Client Server Chat Applications has been performed
