@@ -123,6 +123,9 @@ while not done:
 
 client.close()
 server.close()
+
+```
+
 ## Result:
 
 <img width="1471" height="396" alt="WhatsApp Image 2026-05-15 at 9 18 24 AM" src="https://github.com/user-attachments/assets/729e5025-61c0-43e0-b928-198f0d2826fc" />
